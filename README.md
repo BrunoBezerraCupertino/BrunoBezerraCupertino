@@ -11,6 +11,9 @@
   <img align="center" alt="Bruno-Djan" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Bruno-Dock" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Bruno-Mysql" height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="">
+</div>
+  
 </div>
 
   ##
