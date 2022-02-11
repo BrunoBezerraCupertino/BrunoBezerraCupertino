@@ -11,12 +11,12 @@
   <img align="center" alt="Bruno-Djan" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Bruno-Dock" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Bruno-Mysql" height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="">
+   <img align="right" alt="Bruno-pic" height="180" style="border-radius:80px;" src="https://i.ibb.co/KrBTXGH/Picsart-22-02-11-03-08-47-490.png">
 </div>
   
 </div>
 
-  ##
+  #
   
 <div> 
   <a href = "mailto:bbc111kira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
